@@ -1,12 +1,12 @@
-<!-- Glowing Name -->
+<!-- 🚀 Futuristic Header -->
 <h1 align="center">
-  <span style="color:#00F7FF; text-shadow: 0px 0px 10px #00F7FF, 0px 0px 20px #00F7FF, 0px 0px 40px #00F7FF;">
-    ✨ Muhammad Haseeb Hassan ✨
+  <span style="color:#FF00FF; text-shadow: 0px 0px 10px #FF00FF, 0px 0px 20px #FF00FF, 0px 0px 40px #FF00FF;">
+    ⚡ Haseeb • The Code Alchemist ⚡
   </span>
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+Mobile+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+%26+React+Wizard;Builder+of+Cool+Projects;Always+Leveling+Up+⚡">
 </p>
 
 ---
@@ -15,13 +15,13 @@
 - 🔭 Currently building **Full-Stack Web & Mobile Apps**  
 - 👯 Open to collaborate on **React / Flutter projects**  
 - 🌱 Learning **Advanced Flutter, Firebase, MERN Stack**  
-- 💬 Ask me about **React, Flutter, GSAP**  
+- 💬 Ask me about **React, Flutter, GSAP, UI/UX**  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5)  
-- ⚡ Fun fact: *I think I am funny 😅*  
+- ⚡ Fun fact: *Code is my superpower ⚡*  
 
 ---
 
-## 🛠️ Tech Stack (Logos Only)  
+## 🛠️ Tech Stack  
 
 ### 💻 Languages  
 <p align="center">
@@ -38,8 +38,13 @@
   <img src="https://skillicons.dev/icons?i=html&theme=dark" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=css&theme=dark" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="60" />&nbsp;&nbsp;
+
+  <!-- Animated React -->
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="60" />&nbsp;&nbsp;
+
+  <!-- Animated Next.js -->
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="60" />&nbsp;&nbsp;
+
   <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" height="60" />
 </p>
 
@@ -47,13 +52,19 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express&theme=dark" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="60" />&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="60" />
+
+  <!-- Animated Flutter -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="60" />&nbsp;&nbsp;
+
+  <!-- Animated Firebase -->
+  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" height="60" />
 </p>
 
 ### 🗄️ Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="60" />&nbsp;&nbsp;
+  <!-- Animated MongoDB -->
+  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" height="60" />&nbsp;&nbsp;
+
   <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60" />&nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="60" />
@@ -70,21 +81,28 @@
 
 ---
 
-## 🎓 Cool Certifications  
+## 💡 Featured Projects  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/IBM-Cloud%20%26%20Mobile-blue?style=for-the-badge&logo=ibm&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google-Python-red?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Udemy-Full%20Stack%20Dev-purple?style=for-the-badge&logo=udemy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-CCNA-green?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coursera-Java-orange?style=for-the-badge&logo=coursera&logoColor=white" />
+  <a href="#"><img src="https://img.shields.io/badge/ByteCart-E--Commerce-blueviolet?style=for-the-badge&logo=nextdotjs&logoColor=white"></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Recipe%20Sharing%20App-Next.js%20+%20MongoDB-green?style=for-the-badge&logo=vercel&logoColor=white"></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Club%20Membership%20Manager-Full%20CRUD-orange?style=for-the-badge&logo=mongodb&logoColor=white"></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Signals%20%26%20Systems-Lab%20Experiments-yellow?style=for-the-badge&logo=mathworks&logoColor=white"></a>&nbsp;
+  <a href="#"><img src="https://img.shields.io/badge/Interactive%20Web%20Projects-JS%20Fun%20Apps-red?style=for-the-badge&logo=javascript&logoColor=white"></a>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
+## 🎓 Certifications  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://img.shields.io/badge/Flutter%20%26%20Dart-Complete%20App%20Development-blue?style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Java%20Fundamentals-Coursera-green?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Crash%20Course%20on%20Python-Google-red?style=for-the-badge&logo=google&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Flutter%20%26%20Dart-IBM-purple?style=for-the-badge&logo=ibm&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Data%20Persistence%20%26%20Firebase-Packt-orange?style=for-the-badge&logo=firebase&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Getting%20Started%20with%20Flutter%20%26%20Dart-Packt-blueviolet?style=for-the-badge&logo=dart&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/Advanced%20Flutter%20UI%20%26%20State%20Management-Packt-teal?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ---
