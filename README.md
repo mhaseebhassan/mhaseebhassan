@@ -1,89 +1,76 @@
-<!-- =========================
-   Muhammad Haseeb Hassan — README
-   Paste this file into your profile repo README.md
-   ========================= -->
-
-<!-- Header: Futuristic TV-like banner (capsule-render is reliable) -->
+<!-- ====== HEADER ====== -->
 <p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=150&color=0:0b1220,100:00f7ff&text=Muhammad%20Haseeb%20Hassan&font=Orbitron&fontSize=36&desc=Full%20Stack%20%26%20Mobile%20Developer%20%7C%20Flutter%20%7C%20React%20%7C%20Next.js%20%7C%20Firebase%20%7C%20MongoDB&descSize=14&stroke=00F7FF&strokeWidth=1&animation=twinkling"
-    alt="Muhammad Haseeb Hassan — Futuristic Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:00f7ff&height=100&section=header&text=Muhammad%20Haseeb%20Hassan&fontSize=36&fontAlign=50&fontColor=00f7ff&font=Orbitron&animation=twinkling" alt="header"/>
 </p>
 
-<!-- Typing tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=18&duration=2800&pause=800&color=00F7FF&center=true&vCenter=true&width=820&lines=Building+scalable+web+%2B+mobile+apps;Flutter+%7C+React+%7C+Next.js+%7C+Firebase+%7C+MongoDB;Clean+architecture.+Smooth+UX." alt="typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Mobile+Developer;Flutter+%7C+React+%7C+Next.js+%7C+Firebase+%7C+MongoDB;Clean+Code+%7C+Scalable+Apps+%7C+Smooth+UI" alt="typing tagline" />
 </p>
 
 ---
 
-## 🤖 About
+## 🛠️ Tech Stack
+
+### 💻 Languages  
 <p align="center">
-  Passionate developer focused on building scalable, maintainable web & mobile applications.
-  Key focus: **Flutter, React & Next.js, Firebase, MongoDB**, and clean architecture.
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,dart" height="50" />
 </p>
 
----
-
-## 🛠️ Tech Stack (logos only — centered)
+### 🌐 Frontend  
 <p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,dart" height="56" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,wordpress" height="50" />
 </p>
 
+### ⚙️ Backend & Mobile  
 <p align="center">
-  <!-- Frontend (React & Next visually prominent) -->
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,wordpress" height="56" alt="frontend" />
+  <!-- Animated React -->
+  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="60" alt="React animated"/> &nbsp;&nbsp;
+  <!-- Flutter -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="60" alt="Flutter animated"/> &nbsp;&nbsp;
+  <!-- Firebase -->
+  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" height="60" alt="Firebase animated"/> &nbsp;&nbsp;
+  <!-- Node -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" />
 </p>
 
+### 🗄️ Databases  
 <p align="center">
-  <!-- Backend & Mobile -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flutter,firebase" height="56" alt="backend mobile" />
+  <!-- MongoDB animated -->
+  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="60" alt="MongoDB animated"/> &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" height="50" />
 </p>
 
+### 🔧 Tools  
 <p align="center">
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgresql,mysql" height="56" alt="databases" />
-</p>
-
-<p align="center">
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" height="56" alt="tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" height="50" />
 </p>
 
 ---
 
 ## 📜 Certifications
 <p align="center">
-  <!-- shields.io badges (reliable) -->
-  <img src="https://img.shields.io/badge/Flutter%20%26%20Dart-Complete%20App%20Development-0a84ff?style=for-the-badge&logo=flutter&logoColor=white" alt="Packt Flutter" />&nbsp;
-  <img src="https://img.shields.io/badge/Introduction%20to%20Java%20Programming-Coursera-ff7a00?style=for-the-badge&logo=java" alt="Coursera Java" />&nbsp;
-  <img src="https://img.shields.io/badge/Crash%20Course%20on%20Python-Google-ffd343?style=for-the-badge&logo=python&logoColor=black" alt="Google Python" />&nbsp;
-  <img src="https://img.shields.io/badge/Flutter%20%26%20Dart-IBM-6a5acd?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Flutter" />&nbsp;
-  <img src="https://img.shields.io/badge/Data%20Persistence%20%26%20Firebase-Packt-fbbc04?style=for-the-badge&logo=firebase&logoColor=black" alt="Packt Firebase" />&nbsp;
-  <img src="https://img.shields.io/badge/Getting%20Started%20with%20Flutter-Packt-7b61ff?style=for-the-badge&logo=flutter&logoColor=white" alt="Packt Start" />&nbsp;
-  <img src="https://img.shields.io/badge/Advanced%20Flutter%20UI-Packt-00c2ff?style=for-the-badge&logo=flutter&logoColor=white" alt="Packt Advanced" />
+  <img src="https://img.shields.io/badge/Flutter%20%26%20Dart-Complete%20App%20Development-0a84ff?style=for-the-badge&logo=flutter&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Introduction%20to%20Java-Coursera-ff7a00?style=for-the-badge&logo=java" />  
+  <img src="https://img.shields.io/badge/Crash%20Course%20on%20Python-Google-ffd343?style=for-the-badge&logo=python&logoColor=black" />  
+  <img src="https://img.shields.io/badge/Flutter%20%26%20Dart-IBM-6a5acd?style=for-the-badge&logo=ibm&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Data%20Persistence%20%26%20Firebase-Packt-fbbc04?style=for-the-badge&logo=firebase&logoColor=black" />  
+  <img src="https://img.shields.io/badge/Getting%20Started%20with%20Flutter-Packt-7b61ff?style=for-the-badge&logo=flutter&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Advanced%20Flutter%20UI-Packt-00c2ff?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
-<p align="center">
-  <b>📱 Recipe Sharing App</b> — Next.js, Tailwind, MongoDB<br/>
-  <b>👥 Club Membership Manager</b> — Full CRUD (Next.js + MongoDB)<br/>
-  <b>🛒 ByteCart</b> — E-commerce (Next.js + Clerk Auth)<br/>
-  <b>🎮 Mini Apps</b> — Number Guessing · ATM Simulator · Calculator<br/>
-</p>
+## 🚀 Projects
+- 📱 **Recipe Sharing App** — Next.js, Tailwind, MongoDB  
+- 👥 **Club Membership Manager** — CRUD with Next.js + MongoDB  
+- 🛒 **ByteCart** — E-commerce with Next.js + Clerk Auth  
+- 🎮 **Mini Projects** — Number Guessing, ATM Simulator, Calculator  
 
 ---
 
-## 🎮 Arcade Zone
+## 🎮 Fun Zone
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:00f7ff,100:111827&text=Arcade+Zone&font=Orbitron&fontSize=24&animation=twinkling" alt="Arcade Zone banner" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 <p align="center">
@@ -94,8 +81,6 @@
 
 ## 🔗 Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5"><img src="https://skillicons.dev/icons?i=linkedin" height="46" alt="LinkedIn" /></a>&nbsp;&nbsp;
-  <a href="https://github.com/mhaseebhassan"><img src="https://skillicons.dev/icons?i=github" height="46" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>&nbsp;
+  <a href="https://github.com/mhaseebhassan"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
 </p>
-
-<!-- End of README -->
