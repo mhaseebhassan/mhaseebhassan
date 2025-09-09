@@ -78,3 +78,8 @@
   <a href="https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5"><img src="https://skillicons.dev/icons?i=linkedin" height="45" style="max-width: 100%; height: auto;"/></a>&nbsp;
   <a href="https://github.com/mhaseebhassan"><img src="https://skillicons.dev/icons?i=github" height="45" style="max-width: 100%; height: auto;"/></a>
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer" alt="footer"/>
+</p>
+
