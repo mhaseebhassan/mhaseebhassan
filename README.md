@@ -23,7 +23,6 @@
 
 ### ⚙️ Backend & Mobile  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" style="max-width: 100%; height: auto;"/> 
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="60" alt="React animated" style="max-width: 100%; height: auto;"/> &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="60" alt="Flutter animated" style="max-width: 100%; height: auto;"/> &nbsp;&nbsp;
   <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" height="60" alt="Firebase animated" style="max-width: 100%; height: auto;"/> &nbsp;&nbsp;
