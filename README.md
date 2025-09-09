@@ -1,10 +1,10 @@
 <!-- ====== HEADER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0b1220,100:00f7ff&height=100&section=header&text=Muhammad%20Haseeb%20Hassan&fontSize=36&fontAlign=50&fontColor=00f7ff&font=Orbitron&animation=twinkling" alt="header"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00FFFF&height=100&section=header&text=Muhammad%20Haseeb%20Hassan&fontSize=36&fontAlign=50&fontColor=FFFFFF&font=Orbitron&animation=twinkling" alt="header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Mobile+Developer;Flutter+%7C+React+%7C+Next.js+%7C+Firebase+%7C+MongoDB;Clean+Code+%7C+Scalable+Apps+%7C+Smooth+UI" alt="typing tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Mobile+Developer;Flutter+%7C+React+%7C+Next.js+%7C+Firebase+%7C+MongoDB;Clean+Code+%7C+Scalable+Apps+%7C+Smooth+UI" alt="typing tagline" />
 </p>
 
 ---
@@ -29,7 +29,6 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="60" alt="Flutter animated"/> &nbsp;&nbsp;
   <!-- Firebase -->
   <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" height="60" alt="Firebase animated"/> &nbsp;&nbsp;
-  <!-- Node -->
   <img src="https://skillicons.dev/icons?i=nodejs,express" height="50" />
 </p>
 
@@ -37,6 +36,8 @@
 <p align="center">
   <!-- MongoDB animated -->
   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="60" alt="MongoDB animated"/> &nbsp;&nbsp;
+  <!-- Firebase animated -->
+  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" height="60" alt="Firebase animated"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" height="50" />
 </p>
 
