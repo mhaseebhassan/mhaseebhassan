@@ -1,103 +1,14 @@
-# Hi there 👋, I'm Haseeb Bhinder  
+<h1 align="center">Hi 👋, I'm Muhammad Haseeb Hassan</h1>
+<h3 align="center">💻 Full-Stack Developer | Mobile App Developer | Tech Enthusiast</h3>
 
-💻 **Full-Stack Developer | Mobile App Developer | Tech Enthusiast**  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/muhammad haseeb hassan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad haseeb hassan" height="30" width="40" /></a>
+</p>
 
-I’m passionate about building scalable **web and mobile applications** with modern technologies.  
-Currently focusing on **Flutter, React.js, Next.js, and Full-Stack Development** 🚀.  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhaseebhassan&show_icons=true&locale=en&layout=compact" alt="mhaseebhassan" /></p>
 
-## 🔭 Work
-- I’m currently working on [ByteCart – E-commerce Platform](https://github.com/mhaseebhassan/bytecart)  
-- 👯 I’m looking to collaborate on [Recipe Sharing App](https://github.com/mhaseebhassan/recipes-app)  
-- 🤝 I’m looking for help with [Club Membership Manager](https://github.com/mhaseebhassan/membership-manager)  
-- 🌱 I’m currently learning **Advanced Flutter, Firebase, and MERN Stack**  
-- 💬 Ask me about **React, Vue, GSAP, and Flutter**  
-- 📫 How to reach me: **your-email@example.com**  
-- 👨‍💻 All of my projects are available at [Portfolio](https://github.com/mhaseebhassan)  
-- 📝 I regularly write articles on [Blog](https://dev.to/)  
-- 📄 Know about my experiences [Resume](https://link-to-resume.com)  
-- ⚡ Fun fact: *I think I am funny 😅*  
-
----
-
-## 🛠️ Skills  
-
-### Programming Languages  
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus)  
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)  
-
-### Frontend Development  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
-![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)  
-
-### Backend Development  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  
-
-### Mobile App Development  
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)  
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)  
-
-### Database  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
-![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=databricks)  
-
-### DevOps & Tools  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)  
-
----
-
-## 📜 Certifications  
-- **IBM** – Flutter and Dart: Developing iOS, Android, and Mobile Apps (2025)  
-- **Packt** – Getting Started with Flutter & Dart (2025)  
-- **Packt** – Advanced Flutter UI and State Management (2025)  
-- **Packt** – Data Persistence and Firebase Integration (2025)  
-- **Packt** – Flutter & Dart Complete App Development Specialization (2025)  
-- **Google** – Crash Course on Python (2025)  
-- **Udemy** – Full-Stack Web Development with React and MongoDB (2025)  
-- **Cisco Networking Academy** – CCNA: Introduction to Networks (2024)  
-- **Coursera** – Introduction to Java Programming (2023)  
-
----
-
-## 🌍 Connect With Me  
-
-- 💼 LinkedIn: [linkedin.com/in/haseeb](https://linkedin.com/)  
-- 🐦 Twitter: [twitter.com/username](https://twitter.com/)  
-- 📷 Instagram: [instagram.com/username](https://instagram.com/)  
-- 📝 Dev.to: [dev.to/username](https://dev.to/)  
-- 🐙 GitHub: [github.com/mhaseebhassan](https://github.com/mhaseebhassan)  
-
----
-
-## 📊 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhaseebhassan&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhaseebhassan&theme=radical)  
-
----
-
-## 🏆 GitHub Trophies  
-
-![trophy](https://github-profile-trophy.vercel.app/?username=mhaseebhassan&theme=onedark)  
-
----
-
-☕ If you like my work, consider buying me a coffee!  
-[Buy Me a Coffee](https://www.buymeacoffee.com/yourusername)  
-
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhaseebhassan&" alt="mhaseebhassan" /></p>
