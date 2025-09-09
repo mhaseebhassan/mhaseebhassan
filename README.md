@@ -70,9 +70,6 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" style="max-width: 100%; height: auto;"/>
 </p>
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="developer quote" style="max-width: 100%; height: auto;"/>
-</p>
 
 ---
 
