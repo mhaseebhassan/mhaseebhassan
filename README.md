@@ -82,4 +82,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer" alt="footer"/>
 </p>
+<p align="center">
+  <img src="https://via.placeholder.com/1x400/00000000/00000000?text=" alt="spacer"/>
+</p>
 
