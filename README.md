@@ -82,8 +82,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer" alt="footer"/>
 </p>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/transparent-png/transparent-png/main/transparent.png" width="100%" height="400" alt="spacer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer" alt="footer"/>
 </p>
 
