@@ -1,7 +1,13 @@
-<!-- Cool Animated Header -->
+<!-- Glowing Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=500&lines=👋+Hi%2C+I'm+Haseeb+Bhinder;Full+Stack+Web+%26+Mobile+Developer;Always+learning+new+things!" alt="Typing SVG" />
+  <span style="color:#00F7FF; text-shadow: 0px 0px 10px #00F7FF, 0px 0px 20px #00F7FF, 0px 0px 40px #00F7FF;">
+    ✨ Muhammad Haseeb Hassan ✨
+  </span>
 </h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Web+%26+Mobile+Developer;Open+Source+Enthusiast;Always+Learning+New+Things!">
+</p>
 
 ---
 
@@ -9,89 +15,94 @@
 - 🔭 Currently building **Full-Stack Web & Mobile Apps**  
 - 👯 Open to collaborate on **React / Flutter projects**  
 - 🌱 Learning **Advanced Flutter, Firebase, MERN Stack**  
-- 💬 Ask me about **React, Flutter, Vue, GSAP**  
+- 💬 Ask me about **React, Flutter, GSAP**  
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5)  
 - ⚡ Fun fact: *I think I am funny 😅*  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack (Logos Only)  
 
-### 💻 Languages
+### 💻 Languages  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,dart" />
+  <img src="https://skillicons.dev/icons?i=c&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=js&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=dart&theme=dark" height="60" />
 </p>
 
-### 🌐 Frontend
+### 🌐 Frontend  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,next,vue" />
+  <img src="https://skillicons.dev/icons?i=html&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=react&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=wordpress&theme=dark" height="60" />
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend & Mobile  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=express&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=flutter&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="60" />
 </p>
 
-### 📱 Mobile
+### 🗄️ Databases  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="60" />
 </p>
 
-### 🗄️ Databases
+### 🔧 Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,sqlite" />
-</p>
-
-### 🔧 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" />
-</p>
-
----
-
-## 📜 Certifications
-- IBM – Flutter & Dart: Developing iOS, Android, and Mobile Apps (2025)  
-- Packt – Advanced Flutter UI, Firebase, and Complete Specialization (2025)  
-- Google – Crash Course on Python (2025)  
-- Udemy – Full-Stack Web Development with React and MongoDB (2025)  
-- Cisco Networking Academy – CCNA: Introduction to Networks (2024)  
-- Coursera – Java Fundamental Concepts (2023)  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mhaseebhassan&theme=radical" alt="streak" />
+  <img src="https://skillicons.dev/icons?i=git&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postman&theme=dark" height="60" />&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="60" />
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🎓 Cool Certifications  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhaseebhassan&theme=darkhub&no-frame=true&margin-w=15" />
+  <img src="https://img.shields.io/badge/IBM-Cloud%20%26%20Mobile-blue?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google-Python-red?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Udemy-Full%20Stack%20Dev-purple?style=for-the-badge&logo=udemy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-CCNA-green?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coursera-Java-orange?style=for-the-badge&logo=coursera&logoColor=white" />
 </p>
 
 ---
 
-## 🎮 Just for Fun
+## 📊 GitHub Stats  
 <p align="center">
-  <!-- Snake Game -->
+  <img src="https://github-readme-stats.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 🎮 Just for Fun  
+<p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </p>
 
 ---
 
-<h2 align="center">
-  🔥 Let's Connect 🔥  
-</h2>
+<h2 align="center">🌟 Connect with Me 🌟</h2>  
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="60" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mhaseebhassan">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="60" />
   </a>
 </p>
-
----
