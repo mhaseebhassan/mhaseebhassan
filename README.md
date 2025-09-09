@@ -71,18 +71,6 @@
 </p>
 
 
-<!-- GitHub Skyline (3D city of contributions) -->
-<p align="center">
-  <a href="https://skyline.github.com/mhaseebhassan/2024">
-    <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="GitHub Skyline (3D Contributions)" />
-  </a>
-</p>
-
-<!-- GitHub Trophy Board -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhaseebhassan&theme=matrix&row=1&column=6" alt="GitHub Trophies"/>
-</p>
-
 <!-- Play Tetris -->
 <p align="center">
   <a href="https://tetris-play.vercel.app/" target="_blank">
