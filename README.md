@@ -71,6 +71,26 @@
 </p>
 
 
+<!-- GitHub Skyline (3D city of contributions) -->
+<p align="center">
+  <a href="https://skyline.github.com/mhaseebhassan/2024">
+    <img src="https://github.com/ashutosh00710/github-readme-activity-graph/raw/output/github-contribution-grid-snake.svg" alt="GitHub Skyline (3D Contributions)" />
+  </a>
+</p>
+
+<!-- GitHub Trophy Board -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mhaseebhassan&theme=matrix&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<!-- Play Tetris -->
+<p align="center">
+  <a href="https://tetris-play.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Tetris-%F0%9F%8E%B2-blue?style=for-the-badge&logo=github" alt="Play Tetris"/>
+  </a>
+</p>
+
+
 ---
 
 ## 🔗 Connect
@@ -82,9 +102,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer" alt="footer"/>
 </p>
-![Fish Animation](https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/output/github-contribution-grid-snake.svg)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer" alt="footer"/>
-</p>
 
