@@ -27,8 +27,7 @@
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="60" alt="React animated"/> &nbsp;&nbsp;
   <!-- Flutter -->
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="60" alt="Flutter animated"/> &nbsp;&nbsp;
-    <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
-
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" />
   <!-- Firebase -->
   <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" height="60" alt="Firebase animated"/> &nbsp;&nbsp;
   <img src="https://skillicons.dev/icons?i=express" height="50" />
