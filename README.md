@@ -82,6 +82,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer" alt="footer"/>
 </p>
+![Fish Animation](https://raw.githubusercontent.com/ashutosh00710/github-readme-activity-graph/output/github-contribution-grid-snake.svg)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer" alt="footer"/>
 </p>
