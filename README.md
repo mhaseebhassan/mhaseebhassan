@@ -34,11 +34,10 @@
 
 ### 🗄️ Databases  
 <p align="center">
-  <!-- MongoDB animated -->
-  <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" height="60" alt="MongoDB animated"/> &nbsp;&nbsp;
-  <!-- Firebase animated -->
-  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" height="60" alt="Firebase animated"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,sqlite" height="50" />
+  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" height="55"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="55"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="55"/>&nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="55"/>
 </p>
 
 ### 🔧 Tools  
