@@ -61,17 +61,15 @@ I am a passionate **Full Stack & Mobile Developer** dedicated to crafting high-p
 ## 🚀 Featured Projects
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **Recipe Sharing App** | A comprehensive platform for culinary enthusiasts to share and discover recipes. | `Next.js`, `TailwindCSS`, `MongoDB` |
-| **Club Membership Manager** | Robust management system featuring complete CRUD operations and member tracking. | `Next.js`, `MongoDB` |
-| **ByteCart** | Modern E-commerce solution with secure authentication and smooth checkout flow. | `Next.js`, `Clerk`, `Stripe` |
-| **Utility Suite** | Collection of everyday tools including ATM Simulator, Calculator, and more. | `C++`, `Java` |
+| [**eC-APP**](https://github.com/mhaseebhassan/eC-APP) | E-Commerce mobile application build with Flutter | `Dart`, `Flutter` |
+| [**Saas-SmartSpend**](https://github.com/mhaseebhassan/Saas-SmartSpend) | Smart expense tracking and financial SaaS platform | `JavaScript`, `React`, `Next.js` |
+| [**L1**](https://github.com/mhaseebhassan/L1) | Web development learning project | `HTML`, `CSS` |
 
 ---
 
 ## 📈 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=tokyonight&hide_border=true&title_color=06B6D4&icon_color=4F46E5" alt="GitHub Stats" height="192"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhaseebhassan&theme=tokyonight&hide_border=true&ring=06B6D4&fire=4F46E5" alt="GitHub Streak" height="192"/>
 </p>
 
 ---
