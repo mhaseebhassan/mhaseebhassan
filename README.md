@@ -69,7 +69,7 @@ I am a passionate **Full Stack & Mobile Developer** dedicated to crafting high-p
 
 ## 📈 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.app/api?username=mhaseebhassan&show_icons=true&theme=tokyonight&hide_border=true&title_color=06B6D4&icon_color=4F46E5" alt="GitHub Stats" height="192"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=tokyonight&hide_border=true&title_color=06B6D4&icon_color=4F46E5" alt="GitHub Stats" height="192"/>
 </p>
 
 ---
