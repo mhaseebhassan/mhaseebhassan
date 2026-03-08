@@ -1,94 +1,87 @@
 <!-- ====== HEADER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8A2BE2,100:00FFFF&height=100&section=header&text=Muhammad%20Haseeb%20Hassan&fontSize=36&fontAlign=50&fontColor=FFFFFF&font=Orbitron&animation=twinkling" alt="header" style="max-width: 100%; height: auto;"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=200&section=header&text=Muhammad%20Haseeb%20Hassan&fontSize=50&fontAlignY=35&fontColor=FFFFFF&font=Orbitron&animation=fadeIn" alt="header" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=Full+Stack+%26+Mobile+Developer;Flutter+%7C+React+%7C+Next.js+%7C+Firebase+%7C+MongoDB;Clean+Code+%7C+Scalable+Apps+%7C+Smooth+UI" alt="typing tagline" style="max-width: 100%; height: auto;" />
+  <a href="https://github.com/mhaseebhassan">
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Full+Stack+%26+Mobile+Developer;Flutter+%7C+React+%7C+Next.js+%7C+Node.js;Building+Scalable+%26+Robust+Applications;Clean+Code+%7C+Modern+UI+%7C+Performance" alt="typing tagline" />
+  </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+I am a passionate **Full Stack & Mobile Developer** dedicated to crafting high-performance applications with clean architecture and modern user interfaces. I specialize in building scalable solutions across mobile and web platforms.
+
+---
+
+## 🛠️ Technical Arsenal
 
 ### 💻 Languages  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python,dart" height="50" style="max-width: 100%; height: auto;"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,dart" height="40" alt="Languages"/>
 </p>
 
-### 🌐 Frontend  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,wordpress" height="50" style="max-width: 100%; height: auto;"/>
+### 🌐 Frontend Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs,wordpress" height="40" alt="Frontend"/>
 </p>
 
-### ⚙️ Backend & Mobile  
-<p align="center">
-  <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" height="60" alt="React animated" style="max-width: 100%; height: auto;"/> &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="60" alt="Flutter animated" style="max-width: 100%; height: auto;"/> &nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" height="60" alt="Firebase animated" style="max-width: 100%; height: auto;"/> &nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=express" height="50" style="max-width: 100%; height: auto;"/>
+### 📱 Mobile & Backend Engineering  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,nodejs,express,firebase" height="40" alt="Backend and Mobile"/>
 </p>
 
-### 🗄️ Databases  
-<p align="center">
-  <img src="https://media.giphy.com/media/cmCEsJZHYBPels360q/giphy.gif" height="55" style="max-width: 100%; height: auto;"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" height="55" style="max-width: 100%; height: auto;"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="55" style="max-width: 100%; height: auto;"/>&nbsp;&nbsp;
-  <img src="https://skillicons.dev/icons?i=postgresql&theme=dark" height="55" style="max-width: 100%; height: auto;"/>
+### 🗄️ Databases & Cloud  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,aws" height="40" alt="Databases"/>
 </p>
 
-### 🔧 Tools  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode" height="50" style="max-width: 100%; height: auto;"/>
+### 🔧 Tools & Workflow  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,postman,vscode,docker" height="40" alt="Tools"/>
 </p>
 
 ---
 
 ## 📜 Certifications
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter%20%26%20Dart-Complete%20App%20Development-0a84ff?style=for-the-badge&logo=flutter&logoColor=white" style="max-width: 100%; height: auto;"/>  
-  <img src="https://img.shields.io/badge/Introduction%20to%20Java-Coursera-ff7a00?style=for-the-badge&logo=java" style="max-width: 100%; height: auto;"/>  
-  <img src="https://img.shields.io/badge/Crash%20Course%20on%20Python-Google-ffd343?style=for-the-badge&logo=python&logoColor=black" style="max-width: 100%; height: auto;"/>  
-  <img src="https://img.shields.io/badge/Flutter%20%26%20Dart-IBM-6a5acd?style=for-the-badge&logo=ibm&logoColor=white" style="max-width: 100%; height: auto;"/>  
-  <img src="https://img.shields.io/badge/Data%20Persistence%20%26%20Firebase-Packt-fbbc04?style=for-the-badge&logo=firebase&logoColor=black" style="max-width: 100%; height: auto;"/>  
-  <img src="https://img.shields.io/badge/Getting%20Started%20with%20Flutter-Packt-7b61ff?style=for-the-badge&logo=flutter&logoColor=white" style="max-width: 100%; height: auto;"/>  
-  <img src="https://img.shields.io/badge/Advanced%20Flutter%20UI-Packt-00c2ff?style=for-the-badge&logo=flutter&logoColor=white" style="max-width: 100%; height: auto;"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter%20%26%20Dart-Complete%20App%20Development-0a84ff?style=for-the-badge&logo=flutter&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Introduction%20to%20Java-Coursera-ff7a00?style=for-the-badge&logo=java" />  
+  <img src="https://img.shields.io/badge/Crash%20Course%20on%20Python-Google-ffd343?style=for-the-badge&logo=python&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Flutter%20%26%20Dart-IBM-6a5acd?style=for-the-badge&logo=ibm&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Data%20Persistence%20%26%20Firebase-Packt-fbbc04?style=for-the-badge&logo=firebase&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Getting%20Started%20with%20Flutter-Packt-7b61ff?style=for-the-badge&logo=flutter&logoColor=white" />  
+  <img src="https://img.shields.io/badge/Advanced%20Flutter%20UI-Packt-00c2ff?style=for-the-badge&logo=flutter&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Projects
-- 📱 **Recipe Sharing App** — Next.js, Tailwind, MongoDB  
-- 👥 **Club Membership Manager** — CRUD with Next.js + MongoDB  
-- 🛒 **ByteCart** — E-commerce with Next.js + Clerk Auth  
-- 🎮 **Mini Projects** — Number Guessing, ATM Simulator, Calculator  
+## 🚀 Featured Projects
+| Project | Description | Stack |
+|---------|-------------|-------|
+| **Recipe Sharing App** | A comprehensive platform for culinary enthusiasts to share and discover recipes. | `Next.js`, `TailwindCSS`, `MongoDB` |
+| **Club Membership Manager** | Robust management system featuring complete CRUD operations and member tracking. | `Next.js`, `MongoDB` |
+| **ByteCart** | Modern E-commerce solution with secure authentication and smooth checkout flow. | `Next.js`, `Clerk`, `Stripe` |
+| **Utility Suite** | Collection of everyday tools including ATM Simulator, Calculator, and more. | `C++`, `Java` |
 
 ---
 
-## 🎮 Fun Zone
+## 📈 GitHub Statistics
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" style="max-width: 100%; height: auto;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=tokyonight&hide_border=true&title_color=06B6D4&icon_color=4F46E5" alt="GitHub Stats" height="192"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhaseebhassan&theme=tokyonight&hide_border=true&ring=06B6D4&fire=4F46E5" alt="GitHub Streak" height="192"/>
 </p>
-
-
-<!-- Play Tetris -->
-<p align="center">
-  <a href="https://tetris-play.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Tetris-%F0%9F%8E%B2-blue?style=for-the-badge&logo=github" alt="Play Tetris"/>
-  </a>
-</p>
-
 
 ---
 
-## 🔗 Connect
+## 🔗 Let's Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5"><img src="https://skillicons.dev/icons?i=linkedin" height="45" style="max-width: 100%; height: auto;"/></a>&nbsp;
-  <a href="https://github.com/mhaseebhassan"><img src="https://skillicons.dev/icons?i=github" height="45" style="max-width: 100%; height: auto;"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5"><img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/mhaseebhassan"><img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub"/></a>&nbsp;&nbsp;
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer" alt="footer" width="100%"/>
 </p>
-
-
