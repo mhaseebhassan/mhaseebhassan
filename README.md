@@ -1,75 +1,31 @@
-# 👋 Hi, I'm Muhammad Haseeb Hassan
-
-<p align="left">
-  <a href="https://github.com/mhaseebhassan"><img src="https://img.shields.io/badge/GitHub-mhaseebhassan-181717?style=flat&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5"><img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Haseeb%20Hassan-0A66C2?style=flat&logo=linkedin"/></a>
-  <img src="https://komarev.com/ghpvc/?username=mhaseebhassan&label=Profile%20views&color=0ea5e9&style=flat" alt="Profile views"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:00C9FF,30:3A7BD5,65:7F00FF,100:E100FF&text=Muhammad%20Haseeb%20Hassan&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20%7C%20Mobile%20Developer%20%7C%20UI%20Lover&descAlignY=58" width="100%" alt="header"/>
 </p>
 
-Full Stack + Mobile developer building clean, scalable products with great UX.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2400&pause=800&color=00F5FF&center=true&vCenter=true&multiline=true&width=1000&height=90&lines=%F0%9F%94%A5+BUILDING+COOL+APPS+THAT+FEEL+MAGIC;%F0%9F%9A%80+FLUTTER+%E2%80%A2+REACT+%E2%80%A2+NEXT.JS+%E2%80%A2+NODE.JS" alt="typing"/>
+</p>
 
----
+<p align="center">
+  <a href="https://github.com/mhaseebhassan"><img src="https://img.shields.io/github/followers/mhaseebhassan?style=for-the-badge&logo=github&label=FOLLOWERS&color=0ea5e9"/></a>
+  <a href="https://github.com/mhaseebhassan"><img src="https://img.shields.io/github/stars/mhaseebhassan?style=for-the-badge&logo=github&label=STARS&color=7c3aed"/></a>
+  <img src="https://komarev.com/ghpvc/?username=mhaseebhassan&style=for-the-badge&color=22c55e" alt="profile views"/>
+</p>
 
-## 🚀 What I Do
-- Build cross-platform apps with **Flutter**.
-- Build modern web apps with **React / Next.js**.
-- Create backend services and APIs using **Node.js / Express**.
-- Work with **Firebase**, **MongoDB**, and **PostgreSQL**.
-
-## 🧰 Tech Stack
-
-**Languages**  
-`JavaScript` `TypeScript` `Dart` `Python` `Java` `C++`
-
-**Frontend / Mobile**  
-`React` `Next.js` `Tailwind` `Flutter` `HTML` `CSS`
-
-**Backend / Cloud**  
-`Node.js` `Express` `Firebase` `MongoDB` `PostgreSQL` `AWS`
-
-**Tools**  
-`Git` `GitHub` `Docker` `Linux` `Postman` `VS Code`
-
----
-
-## 📌 Featured Projects
-
-### 1) eC-APP
-E-commerce mobile app built with Flutter.  
-🔗 https://github.com/mhaseebhassan/eC-APP
-
-### 2) Saas-SmartSpend
-Expense tracking SaaS with dashboard-focused UX.  
-🔗 https://github.com/mhaseebhassan/Saas-SmartSpend
-
-### 3) L1
-Frontend learning and experimentation project.  
-🔗 https://github.com/mhaseebhassan/L1
-
----
-
-## 🏅 Certifications
-- Flutter & Dart — Complete App Development
-- Introduction to Java — Coursera
-- Crash Course on Python — Google
-- Flutter & Dart — IBM
-- Data Persistence & Firebase — Packt
-- Getting Started with Flutter — Packt
-- Advanced Flutter UI — Packt
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=default&hide_border=true" height="160" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhaseebhassan&layout=compact&theme=default&hide_border=true" height="160" alt="langs"/>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWNnYmtqNGx4b3NqYjM4aWZ0b2Q3d2U2aGxqM2tla2R4OWpzZnV4dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="450" alt="coding gif"/>
 </p>
 
 ---
 
-## 🤝 Contact
-- LinkedIn: https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5
-- GitHub: https://github.com/mhaseebhassan
+## ⚡ About Me
 
-> Open to collaboration, freelance work, and remote opportunities.
+```yaml
+name: Muhammad Haseeb Hassan
+role: Full Stack + Mobile Developer
+focus:
+  - Pixel-perfect UI
+  - Scalable architecture
+  - Fast, smooth app performance
+current_stack: [Flutter, React, Next.js, Node.js, Firebase]
+open_to: [Remote Work, Collaboration, Freelance]
