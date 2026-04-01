@@ -187,7 +187,7 @@ const haseeb = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=issues,stars&rank_icon=github" width="50%"/>
+
 
 <br/><br/>
 
