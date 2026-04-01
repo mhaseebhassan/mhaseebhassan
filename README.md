@@ -95,8 +95,8 @@ const haseeb = {
 <td width="34%" valign="top" align="center">
 <br/>
 <code>BERTopic</code> &nbsp;→&nbsp; Pain-point clustering<br/><br/>
-<code>VADER</code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; Sentiment pipeline<br/><br/>
-<code>scikit-learn</code> →&nbsp; Weighted scoring
+<code>VADER</code>  &nbsp;→&nbsp; Sentiment pipeline<br/><br/>
+<code>scikit-learn</code>  &nbsp;→&nbsp; Weighted scoring
 <br/><br/>
 </td>
 <td width="33%" valign="top" align="center">
