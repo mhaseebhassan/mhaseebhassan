@@ -211,7 +211,7 @@ const haseeb = {
 <br/>
 🎓 <b>B.S. Computer Science</b><br/><br/>
 <b>COMSATS University Islamabad</b><br/><br/>
-<code>2023 → 2027</code> &nbsp;|&nbsp; <code>SP23-BCS-054</code>
+<code>2023 → 2027</code>
 <br/><br/>
 </td>
 <td width="64%" valign="top">
