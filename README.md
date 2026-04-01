@@ -1,4 +1,4 @@
-<!-- HEADER - flowing wave animation -->
+<!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0533,50:3b0764,75:1a0533,100:0d0221&height=260&section=header&text=Muhammad%20Haseeb%20Hassan&fontSize=50&fontColor=f3e8ff&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20CS%20%40%20COMSATS%20Islamabad&descSize=17&descAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=2" width="100%"/>
 
 <div align="center">
@@ -9,18 +9,10 @@
 
 <br/>
 
-<a href="https://haseebhassan.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/◈_Portfolio-haseebhassan.vercel.app-9333ea?style=for-the-badge&labelColor=0d0221"/>
-</a>&nbsp;
-<a href="mailto:muhammadhaseebhassan23@gmail.com">
-  <img src="https://img.shields.io/badge/◈_Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5">
-  <img src="https://img.shields.io/badge/◈_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221"/>
-</a>&nbsp;
-<a href="https://github.com/mhaseebhassan">
-  <img src="https://img.shields.io/badge/◈_GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0221"/>
-</a>
+<a href="https://haseebhassan.vercel.app" target="_blank"><img src="https://img.shields.io/badge/◈_Portfolio-haseebhassan.vercel.app-9333ea?style=for-the-badge&labelColor=0d0221"/></a>&nbsp;
+<a href="mailto:muhammadhaseebhassan23@gmail.com"><img src="https://img.shields.io/badge/◈_Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5"><img src="https://img.shields.io/badge/◈_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221"/></a>&nbsp;
+<a href="https://github.com/mhaseebhassan"><img src="https://img.shields.io/badge/◈_GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0221"/></a>
 
 <br/><br/>
 
@@ -93,51 +85,34 @@ const haseeb = {
 
 <br/>
 
-<table width="90%">
+<table width="92%">
 <tr>
-<th width="34%" align="center">🧠 Intelligence Layer</th>
-<th width="33%" align="center">⚙️ Tech Stack</th>
-<th width="33%" align="center">📡 Data Sources</th>
+<th align="center" width="34%">🧠 Intelligence Layer</th>
+<th align="center" width="33%">⚙️ Tech Stack</th>
+<th align="center" width="33%">📡 Data Sources</th>
 </tr>
 <tr>
 <td width="34%" valign="top" align="center">
-
-```
-BERTopic
- └─ Pain-point clustering
-
-VADER
- └─ Sentiment pipeline
-
-scikit-learn
- └─ Weighted scoring
-```
-
+<br/>
+<code>BERTopic</code> &nbsp;→&nbsp; Pain-point clustering<br/><br/>
+<code>VADER</code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; Sentiment pipeline<br/><br/>
+<code>scikit-learn</code> →&nbsp; Weighted scoring
+<br/><br/>
 </td>
 <td width="33%" valign="top" align="center">
-
-```
-FastAPI    → Backend API
-Next.js    → Frontend
-PostgreSQL → Database
-spaCy      → NLP Engine
-NLTK       → Text process
-```
-
+<br/>
+<code>FastAPI</code> &nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; Backend API<br/><br/>
+<code>Next.js</code> &nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; Frontend<br/><br/>
+<code>PostgreSQL</code> →&nbsp; Database<br/><br/>
+<code>spaCy</code> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;→&nbsp; NLP Engine
+<br/><br/>
 </td>
 <td width="33%" valign="top" align="center">
-
-```
-Reddit JSON
- └─ Community signals
-
-Arctic Shift
- └─ Historical data
-
-HN Algolia
- └─ Startup discourse
-```
-
+<br/>
+<code>Reddit JSON</code> &nbsp;→&nbsp; Community signals<br/><br/>
+<code>Arctic Shift</code> →&nbsp; Historical data<br/><br/>
+<code>HN Algolia</code> &nbsp;→&nbsp; Startup discourse
+<br/><br/>
 </td>
 </tr>
 </table>
@@ -212,11 +187,11 @@ HN Algolia
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14&hide_border=true&hide=issues,stars&custom_title=Contribution+Overview&rank_icon=github" width="52%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=issues,stars&rank_icon=github" width="50%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhaseebhassan&theme=tokyo-night&hide_border=true&radius=14&area=true&custom_title=Contribution+Timeline" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhaseebhassan&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Timeline" width="95%"/>
 
 </div>
 
@@ -230,22 +205,16 @@ HN Algolia
 
 <div align="center">
 
-<table width="90%">
+<table width="92%">
 <tr>
-<td width="38%" align="center" valign="top">
-
+<td width="36%" align="center" valign="top">
 <br/>
-
-🎓 **B.S. Computer Science**
-
-**COMSATS University Islamabad**
-
-`2023 → 2027` &nbsp;|&nbsp; `SP23-BCS-054`
-
-<br/>
-
+🎓 <b>B.S. Computer Science</b><br/><br/>
+<b>COMSATS University Islamabad</b><br/><br/>
+<code>2023 → 2027</code> &nbsp;|&nbsp; <code>SP23-BCS-054</code>
+<br/><br/>
 </td>
-<td width="62%" valign="top">
+<td width="64%" valign="top">
 
 | 📜 Certification | Platform | Year |
 |:---|:---:|:---:|
@@ -276,39 +245,23 @@ HN Algolia
 
 <br/>
 
-<table width="90%">
+<table width="92%">
 <tr>
 <td align="center" width="25%">
-
-**🎯 Ship Smart**
-
-Done > perfect.
-Refactor with context.
-
+<b>🎯 Ship Smart</b><br/><br/>
+Done &gt; perfect.<br/>Refactor with context.
 </td>
 <td align="center" width="25%">
-
-**🤖 AI = Amplifier**
-
-I direct it.
-I don't follow it.
-
+<b>🤖 AI = Amplifier</b><br/><br/>
+I direct it.<br/>I don't follow it.
 </td>
 <td align="center" width="25%">
-
-**📖 Docs First**
-
-Undocumented code
-is future tech debt.
-
+<b>📖 Docs First</b><br/><br/>
+Undocumented code<br/>is future tech debt.
 </td>
 <td align="center" width="25%">
-
-**🔩 Systems Win**
-
-Build the engine,
-not just the dashboard.
-
+<b>🔩 Systems Win</b><br/><br/>
+Build the engine,<br/>not just the dashboard.
 </td>
 </tr>
 </table>
@@ -325,19 +278,12 @@ not just the dashboard.
 
 <div align="center">
 
-<a href="https://haseebhassan.vercel.app">
-  <img src="https://img.shields.io/badge/🌍_Portfolio-Visit_My_Site-9333ea?style=for-the-badge&labelColor=0d0221"/>
-</a>&nbsp;&nbsp;
-<a href="mailto:muhammadhaseebhassan23@gmail.com">
-  <img src="https://img.shields.io/badge/📬_Email-Drop_Me_a_Line-ea4335?style=for-the-badge&labelColor=0d0221"/>
-</a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_Now-0a66c2?style=for-the-badge&labelColor=0d0221"/>
-</a>
+<a href="https://haseebhassan.vercel.app"><img src="https://img.shields.io/badge/🌍_Portfolio-Visit_My_Site-9333ea?style=for-the-badge&labelColor=0d0221"/></a>&nbsp;&nbsp;
+<a href="mailto:muhammadhaseebhassan23@gmail.com"><img src="https://img.shields.io/badge/📬_Email-Drop_Me_a_Line-ea4335?style=for-the-badge&labelColor=0d0221"/></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5"><img src="https://img.shields.io/badge/💼_LinkedIn-Connect_Now-0a66c2?style=for-the-badge&labelColor=0d0221"/></a>
 
 <br/><br/>
 
-<!-- FOOTER wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0533,50:3b0764,75:1a0533,100:0d0221&height=160&section=footer&text=Open%20to%20Opportunities%20%E2%9A%A1&fontSize=24&fontColor=f3e8ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
