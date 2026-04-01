@@ -1,198 +1,209 @@
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0d0221,40:1a0533,70:2d1b69,100:0d0221&height=220&section=header&text=Muhammad%20Haseeb%20Hassan&fontSize=46&fontColor=e2d9f3&fontAlignY=45&desc=⚡%20Full-Stack%20Dev%20%20•%20%20AI%20Builder%20%20•%20%20CS%20@%20COMSATS&descSize=17&descAlignY=68&animation=scaleIn&stroke=7c3aed&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:3b0764,100:0d0221&height=250&section=header&text=Muhammad%20Haseeb%20Hassan&fontSize=48&fontColor=f3e8ff&fontAlignY=50&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20CS%20%40%20COMSATS%20Islamabad&descSize=16&descAlignY=68&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/>
 
 <div align="center">
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=650&lines=Crafting+scalable+apps+with+Next.js+%26+FastAPI+%F0%9F%9A%80;Building+VentureFit+v2.0+—+AI+Startup+Validator+%F0%9F%A4%96;Flutter+%7C+React+%7C+Node.js+%7C+PostgreSQL+%7C+AWS;Turning+ideas+into+shipped+products+%E2%9C%A8;Open+to+Internships+%2F+Freelance+%2F+Collabs+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=9333EA&center=true&vCenter=true&width=700&lines=🚀+Building+VentureFit+v2.0+—+AI+Startup+Validator;⚡+Next.js+•+FastAPI+•+PostgreSQL+•+BERTopic;🤖+NLP+Pipelines+%7C+Full-Stack+Apps+%7C+Cloud+Deploy;🌐+Open+to+Internships+%2F+Freelance+%2F+Collabs;☕+git+push+--force+is+my+cardio)](https://git.io/typing-svg)
 
 <br/>
 
-<a href="https://haseebhassan.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-haseebhassan.vercel.app-7c3aed?style=for-the-badge&labelColor=0d0221" /></a>
-&nbsp;
-<a href="mailto:muhammadhaseebhassan23@gmail.com"><img src="https://img.shields.io/badge/📬_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221" /></a>
-&nbsp;
-<a href="https://github.com/mhaseebhassan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0221" /></a>
+<a href="https://haseebhassan.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/◈_Portfolio-haseebhassan.vercel.app-9333ea?style=for-the-badge&labelColor=0d0221"/>
+</a>&nbsp;
+<a href="mailto:muhammadhaseebhassan23@gmail.com">
+  <img src="https://img.shields.io/badge/◈_Gmail-ea4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d0221"/>
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5">
+  <img src="https://img.shields.io/badge/◈_LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d0221"/>
+</a>&nbsp;
+<a href="https://github.com/mhaseebhassan">
+  <img src="https://img.shields.io/badge/◈_GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0221"/>
+</a>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mhaseebhassan&label=Profile+Views&color=7c3aed&style=flat-square)
-&nbsp;&nbsp;
-![Followers](https://img.shields.io/github/followers/mhaseebhassan?label=Followers&style=flat-square&color=a855f7)
-&nbsp;&nbsp;
-![Stars](https://img.shields.io/github/stars/mhaseebhassan?label=Total+Stars&style=flat-square&color=f59e0b)
+![Profile Views](https://komarev.com/ghpvc/?username=mhaseebhassan&label=👁️+Profile+Views&color=9333ea&style=flat-square)&nbsp;
+![Followers](https://img.shields.io/github/followers/mhaseebhassan?label=⭐+Followers&style=flat-square&color=a855f7)&nbsp;
+![Stars](https://img.shields.io/github/stars/mhaseebhassan?label=✨+Stars&style=flat-square&color=f59e0b)
 
 </div>
+
+---
 
 <br/>
 
----
-
-## ◈ `whoami`
-
-<img align="right" width="360" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
-
-```ts
-/**
- * @author  Muhammad Haseeb Hassan
- * @version 2026.04
- */
-
-const haseeb = {
-  role     : "Full-Stack Developer & AI Builder",
-  uni      : "COMSATS University Islamabad",
-  batch    : "SP23-BCS-054  •  2023 → 2027",
-
-  flagship : "VentureFit v2.0 — AI Startup Validator",
-  openTo   : ["Internships", "Freelance", "Collabs"],
-
-  stack: {
-    frontend : ["Next.js", "React", "Tailwind", "Flutter"],
-    backend  : ["Node.js", "Express", "FastAPI"],
-    database : ["PostgreSQL", "MongoDB", "Firebase"],
-    ai_nlp   : ["BERTopic", "VADER", "scikit-learn", "spaCy"],
-    cloud    : ["AWS EC2", "Elastic Beanstalk", "RDS"],
-  },
-
-  funFact  : "git push --force is my cardio 💪",
-} as const;
-```
-
-<br clear="right"/>
-
----
-
-## ◈ Flagship Project
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════════════╗
-║                                                                      ║
-║      🤖  V E N T U R E F I T   v 2 . 0                              ║
-║      ─────────────────────────────────────                           ║
-║      AI-Powered Startup Idea Validation Platform                     ║
-║      Final Year Project  •  COMSATS  •  2025                        ║
-║                                                                      ║
-║      ▸ BERTopic     — Community pain-point clustering                ║
-║      ▸ VADER        — Sentiment analysis pipeline                    ║
-║      ▸ scikit-learn — Multi-factor scoring model                     ║
-║      ▸ FastAPI + Next.js + PostgreSQL + spaCy                        ║
-║      ▸ Reddit Public JSON  •  Arctic Shift  •  HN Algolia            ║
-║                                                                      ║
-║      Status:  🟢  Active Development                                 ║
-╚══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
----
-
-## ◈ Project Showcase
+## `< whoami />`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
-### 💸 SaaS SmartSpend
-> Premium expense & budget tracking dashboard
+```typescript
+/**
+ * @author   Muhammad Haseeb Hassan
+ * @version  2026.04
+ * @status   Open to Opportunities ✅
+ */
 
-`Next.js` `TypeScript` `MongoDB` `Prisma`
+const haseeb = {
+  role     : "Full-Stack Dev & AI Builder",
+  uni      : "COMSATS University Islamabad",
+  batch    : "SP23-BCS-054  •  2023 → 2027",
+  flagship : "VentureFit v2.0",
+  openTo   : ["Internships","Freelance","Collabs"],
 
-[![View](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mhaseebhassan/Saas-SmartSpend)
+  stack: {
+    frontend : ["Next.js","React","Tailwind","Flutter"],
+    backend  : ["Node.js","Express","FastAPI"],
+    database : ["PostgreSQL","MongoDB","Firebase"],
+    ai_nlp   : ["BERTopic","VADER","scikit-learn","spaCy"],
+    cloud    : ["AWS EC2","Elastic Beanstalk","RDS"],
+  },
 
-</td>
-<td width="50%" valign="top">
-
-### 🧠 AI Content Generator
-> GPT-4 powered blog & marketing copy with real-time streaming
-
-`Next.js` `OpenAI API` `TypeScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🖼️ Smart Image Enhancer
-> Restore, upscale & remove backgrounds via deep learning
-
-`React` `Python` `Deep Learning APIs`
-
-</td>
-<td width="50%" valign="top">
-
-### 🛍️ Flutter E-Commerce
-> Cross-platform app — auth, catalog, payments, orders
-
-`Flutter` `Dart` `Firebase`
-
-[![View](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mhaseebhassan/eC-APP)
+  funFact : "I refactor first, ask questions later.",
+} as const;
+```
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<td width="48%" valign="middle" align="center">
 
-### 🗂️ Task Management App
-> Real-time boards with drag-and-drop & live collaboration
-
-`React` `Node.js` `MongoDB`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio Website
-> Cinematic Next.js portfolio with glassmorphism & animations
-
-`Next.js` `TypeScript` `Framer Motion`
-
-[![View](https://img.shields.io/badge/Live_Site-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://haseebhassan.vercel.app)
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340"/>
 
 </td>
 </tr>
 </table>
 
+<br/>
+
 ---
 
-## ◈ Tech Arsenal
+## `< flagship-project />`
+
+<br/>
 
 <div align="center">
 
-**— Languages —**
+<table>
+<tr>
+<td align="center" width="100%">
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://img.shields.io/badge/🤖_VENTUREFIT_v2.0-FINAL_YEAR_PROJECT-9333ea?style=for-the-badge&labelColor=1a0533&color=9333ea"/>
 
-**— Frontend & Mobile —**
+**AI-Powered Startup Idea Validation Platform**
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white)
+</td>
+</tr>
+<tr>
+<td>
 
-**— Backend & APIs —**
+<table width="100%">
+<tr>
+<td width="33%" valign="top" align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+**🧠 Intelligence Layer**
+```
+BERTopic
+  └─ Pain-point clustering
 
-**— Database & Cloud —**
+VADER
+  └─ Sentiment pipeline
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+scikit-learn
+  └─ Weighted scoring
+```
 
-**— AI & NLP —**
+</td>
+<td width="33%" valign="top" align="center">
 
+**⚙️ Tech Stack**
+```
+FastAPI   → Backend API
+Next.js   → Frontend
+PostgreSQL → Database
+spaCy     → NLP Engine
+NLTK      → Text processing
+```
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**📡 Data Sources**
+```
+Reddit Public JSON
+  └─ Community signals
+
+Arctic Shift
+  └─ Historical data
+
+HN Algolia
+  └─ Startup discourse
+```
+
+</td>
+</tr>
+</table>
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+![Status](https://img.shields.io/badge/Status-🟢_Active_Development-1a1a2e?style=flat-square&labelColor=0d0221&color=22c55e)&nbsp;
+![Type](https://img.shields.io/badge/Type-Final_Year_Project-1a1a2e?style=flat-square&labelColor=0d0221&color=9333ea)&nbsp;
+![University](https://img.shields.io/badge/Uni-COMSATS_Islamabad-1a1a2e?style=flat-square&labelColor=0d0221&color=3b82f6)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## `< projects />`
+
+<br/>
+
+<div align="center">
+
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| 💸 **SaaS SmartSpend** | Premium expense & budget SaaS dashboard | `Next.js` `TypeScript` `MongoDB` `Prisma` | [![](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mhaseebhassan/Saas-SmartSpend) |
+| 🧠 **AI Content Generator** | GPT-4 blog & marketing copy with streaming | `Next.js` `OpenAI` `TypeScript` | — |
+| 🖼️ **Smart Image Enhancer** | Restore, upscale & BG-remove via deep learning | `React` `Python` `DL APIs` | — |
+| 🛍️ **Flutter E-Commerce** | Cross-platform — auth, catalog, payments, orders | `Flutter` `Dart` `Firebase` | [![](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mhaseebhassan/eC-APP) |
+| 🗂️ **Task Manager** | Real-time boards with drag-and-drop | `React` `Node.js` `MongoDB` | — |
+| 🌐 **Portfolio** | Cinematic Next.js site — glassmorphism + Framer | `Next.js` `TypeScript` `Tailwind` | [![](https://img.shields.io/badge/Live-9333ea?style=flat-square&logo=vercel)](https://haseebhassan.vercel.app) |
+
+</div>
+
+<br/>
+
+---
+
+## `< tech-stack />`
+
+<br/>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,dart,html,css&theme=dark&perline=6" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=nextjs,react,flutter,tailwind,nodejs,express&theme=dark&perline=6" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=fastapi,postgresql,mongodb,firebase,aws,prisma&theme=dark&perline=6" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker&theme=dark&perline=6" />
+
+<br/><br/>
+
+**AI / NLP**
+
+![BERTopic](https://img.shields.io/badge/BERTopic-9333ea?style=for-the-badge&logo=python&logoColor=white)
+![VADER](https://img.shields.io/badge/VADER-7c3aed?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -200,91 +211,135 @@ const haseeb = {
 
 </div>
 
+<br/>
+
 ---
 
-## ◈ GitHub Activity
+## `< github-stats />`
+
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14&hide_border=true&hide=stars,issues&custom_title=Haseeb%27s+Contribution+Stats&rank_icon=github" width="55%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14&hide_border=true&hide=issues&custom_title=Contribution+Overview&rank_icon=github&show=reviews,discussions_started" width="54%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhaseebhassan&theme=tokyo-night&hide_border=true&radius=14&area=true&custom_title=Contribution+Timeline" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhaseebhassan&theme=tokyo-night&hide_border=true&radius=14&area=true&custom_title=📅+Contribution+Timeline" width="95%"/>
+
+</div>
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhaseebhassan/mhaseebhassan/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhaseebhassan/mhaseebhassan/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/mhaseebhassan/mhaseebhassan/output/github-snake-dark.svg" width="96%"/>
-</picture>
-
-</div>
-
 ---
 
-## ◈ Trophies
+## `< education-and-certs />`
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mhaseebhassan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" width="96%"/>
-</div>
-
----
-
-## ◈ Education & Certs
-
-```
-🎓  B.S. Computer Science  —  COMSATS University Islamabad   (2023 → 2027)
-
-📜  Certifications
-    ├── Flutter & Dart — Complete App Development           Packt / Coursera  2025
-    ├── Flutter + Dart: iOS, Android & Mobile Apps          IBM / Coursera    2025
-    ├── Advanced Flutter UI & State Management              Packt / Coursera  2025
-    ├── Data Persistence & Firebase Integration             Packt / Coursera  2025
-    ├── Full-Stack Web Dev with React & MongoDB             Udemy             2025
-    └── CCNA: Introduction to Networks                      Cisco             2024
-```
-
----
-
-## ◈ Dev Principles
+<br/>
 
 <div align="center">
 
-> ### *"Don't just write code. Build leverage."*
+<table>
+<tr>
+<td width="40%" align="center" valign="top">
 
-| ⚡ | Principle | Take |
+🎓 **B.S. Computer Science**
+**COMSATS University Islamabad**
+`2023 → 2027` &nbsp;|&nbsp; `SP23-BCS-054`
+
+</td>
+<td width="60%" valign="top">
+
+| 📜 Certification | Platform | Year |
 |---|---|---|
-| 🎯 | **Ship fast, iterate faster** | Done > perfect. Refactor with context. |
-| 🤖 | **AI as amplifier, not autopilot** | I direct it. I don't follow it. |
-| 📖 | **Docs or it didn't happen** | Undocumented code is legacy debt. |
-| 🔩 | **Systems over features** | Build the engine, not just the dashboard. |
+| Flutter & Dart — Complete App Dev | Packt / Coursera | 2025 |
+| Flutter + Dart: iOS, Android & Mobile | IBM / Coursera | 2025 |
+| Advanced Flutter UI & State Mgmt | Packt / Coursera | 2025 |
+| Data Persistence & Firebase | Packt / Coursera | 2025 |
+| Full-Stack: React & MongoDB | Udemy | 2025 |
+| CCNA: Introduction to Networks | Cisco | 2024 |
+
+</td>
+</tr>
+</table>
 
 </div>
 
+<br/>
+
 ---
 
-## ◈ Let's Build Something
+## `< principles />`
+
+<br/>
 
 <div align="center">
 
+> ## *"Don't just write code. Build leverage."*
+
 <br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🎯 Ship Smart**
+Done > perfect.
+Refactor with context.
+
+</td>
+<td align="center" width="25%">
+
+**🤖 AI = Amplifier**
+I direct it.
+I don't follow it.
+
+</td>
+<td align="center" width="25%">
+
+**📖 Docs First**
+Undocumented code
+is future tech debt.
+
+</td>
+<td align="center" width="25%">
+
+**🔩 Systems Win**
+Build the engine,
+not just the dashboard.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+## `< contact />`
+
+<br/>
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
+
+<br/><br/>
 
 <a href="https://haseebhassan.vercel.app">
-<img src="https://img.shields.io/badge/🌍_Visit_Portfolio-haseebhassan.vercel.app-7c3aed?style=for-the-badge&labelColor=0d0221" />
-</a>
-&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/🌍_Portfolio-Visit_My_Site-9333ea?style=for-the-badge&labelColor=0d0221"/>
+</a>&nbsp;&nbsp;
 <a href="mailto:muhammadhaseebhassan23@gmail.com">
-<img src="https://img.shields.io/badge/📬_Drop_an_Email-D14836?style=for-the-badge&labelColor=0d0221" />
-</a>
-&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/📬_Email-Drop_Me_a_Line-ea4335?style=for-the-badge&labelColor=0d0221"/>
+</a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/muhammad-haseeb-hassan-9397a22b5">
-<img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=for-the-badge&labelColor=0d0221" />
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Connect_Now-0a66c2?style=for-the-badge&labelColor=0d0221"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,40:1a0533,70:2d1b69,100:0d0221&height=130&section=footer&text=Open%20to%20Opportunities%20⚡&fontSize=22&fontColor=e2d9f3&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:3b0764,100:0d0221&height=140&section=footer&text=Open%20to%20Opportunities%20⚡&fontSize=22&fontColor=f3e8ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
