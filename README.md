@@ -1,10 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:1a0533,60:3b0764,100:0d0221&height=250&section=header&text=Muhammad%20Haseeb%20Hassan&fontSize=48&fontColor=f3e8ff&fontAlignY=50&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20CS%20%40%20COMSATS%20Islamabad&descSize=16&descAlignY=68&animation=fadeIn&stroke=9333ea&strokeWidth=1" width="100%"/>
+<!-- HEADER - flowing wave animation -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0533,50:3b0764,75:1a0533,100:0d0221&height=260&section=header&text=Muhammad%20Haseeb%20Hassan&fontSize=50&fontColor=f3e8ff&fontAlignY=42&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Builder%20%E2%80%A2%20CS%20%40%20COMSATS%20Islamabad&descSize=17&descAlignY=62&animation=fadeIn&stroke=9333ea&strokeWidth=2" width="100%"/>
 
 <div align="center">
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=9333EA&center=true&vCenter=true&width=700&lines=🚀+Building+VentureFit+v2.0+—+AI+Startup+Validator;⚡+Next.js+•+FastAPI+•+PostgreSQL+•+BERTopic;🤖+NLP+Pipelines+%7C+Full-Stack+Apps+%7C+Cloud+Deploy;🌐+Open+to+Internships+%2F+Freelance+%2F+Collabs;☕+git+push+--force+is+my+cardio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=800&color=9333EA&center=true&vCenter=true&width=720&lines=🚀+Building+VentureFit+v2.0+—+AI+Startup+Validator;⚡+Next.js+%7C+FastAPI+%7C+PostgreSQL+%7C+BERTopic;🤖+NLP+Pipelines+%7C+Full-Stack+Apps+%7C+Cloud+Deploy;🌐+Open+to+Internships+%2F+Freelance+%2F+Collabs;☕+git+push+--force+is+my+cardio)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,9 +24,9 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=mhaseebhassan&label=👁️+Profile+Views&color=9333ea&style=flat-square)&nbsp;
-![Followers](https://img.shields.io/github/followers/mhaseebhassan?label=⭐+Followers&style=flat-square&color=a855f7)&nbsp;
-![Stars](https://img.shields.io/github/stars/mhaseebhassan?label=✨+Stars&style=flat-square&color=f59e0b)
+![Profile Views](https://komarev.com/ghpvc/?username=mhaseebhassan&label=Profile+Views&color=9333ea&style=flat-square)&nbsp;
+![Followers](https://img.shields.io/github/followers/mhaseebhassan?label=Followers&style=flat-square&color=a855f7)&nbsp;
+![Stars](https://img.shields.io/github/stars/mhaseebhassan?label=Stars&style=flat-square&color=f59e0b)
 
 </div>
 
@@ -68,7 +69,7 @@ const haseeb = {
 </td>
 <td width="48%" valign="middle" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="340"/>
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="100%"/>
 
 </td>
 </tr>
@@ -84,78 +85,68 @@ const haseeb = {
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" width="100%">
+<img src="https://img.shields.io/badge/🤖_VENTUREFIT_v2.0-FINAL_YEAR_PROJECT-9333ea?style=for-the-badge&labelColor=1a0533"/>
 
-<img src="https://img.shields.io/badge/🤖_VENTUREFIT_v2.0-FINAL_YEAR_PROJECT-9333ea?style=for-the-badge&labelColor=1a0533&color=9333ea"/>
+<br/><br/>
 
 **AI-Powered Startup Idea Validation Platform**
 
-</td>
+<br/>
+
+<table width="90%">
+<tr>
+<th width="34%" align="center">🧠 Intelligence Layer</th>
+<th width="33%" align="center">⚙️ Tech Stack</th>
+<th width="33%" align="center">📡 Data Sources</th>
 </tr>
 <tr>
-<td>
+<td width="34%" valign="top" align="center">
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top" align="center">
-
-**🧠 Intelligence Layer**
 ```
 BERTopic
-  └─ Pain-point clustering
+ └─ Pain-point clustering
 
 VADER
-  └─ Sentiment pipeline
+ └─ Sentiment pipeline
 
 scikit-learn
-  └─ Weighted scoring
+ └─ Weighted scoring
 ```
 
 </td>
 <td width="33%" valign="top" align="center">
 
-**⚙️ Tech Stack**
 ```
-FastAPI   → Backend API
-Next.js   → Frontend
+FastAPI    → Backend API
+Next.js    → Frontend
 PostgreSQL → Database
-spaCy     → NLP Engine
-NLTK      → Text processing
+spaCy      → NLP Engine
+NLTK       → Text process
 ```
 
 </td>
 <td width="33%" valign="top" align="center">
 
-**📡 Data Sources**
 ```
-Reddit Public JSON
-  └─ Community signals
+Reddit JSON
+ └─ Community signals
 
 Arctic Shift
-  └─ Historical data
+ └─ Historical data
 
 HN Algolia
-  └─ Startup discourse
+ └─ Startup discourse
 ```
 
 </td>
 </tr>
 </table>
 
-</td>
-</tr>
-<tr>
-<td align="center">
+<br/>
 
-![Status](https://img.shields.io/badge/Status-🟢_Active_Development-1a1a2e?style=flat-square&labelColor=0d0221&color=22c55e)&nbsp;
-![Type](https://img.shields.io/badge/Type-Final_Year_Project-1a1a2e?style=flat-square&labelColor=0d0221&color=9333ea)&nbsp;
-![University](https://img.shields.io/badge/Uni-COMSATS_Islamabad-1a1a2e?style=flat-square&labelColor=0d0221&color=3b82f6)
-
-</td>
-</tr>
-</table>
+![Status](https://img.shields.io/badge/Status-🟢_Active_Development-0d0221?style=flat-square&color=22c55e)&nbsp;
+![Type](https://img.shields.io/badge/Type-Final_Year_Project-0d0221?style=flat-square&color=9333ea)&nbsp;
+![Uni](https://img.shields.io/badge/Uni-COMSATS_Islamabad-0d0221?style=flat-square&color=3b82f6)
 
 </div>
 
@@ -170,12 +161,12 @@ HN Algolia
 <div align="center">
 
 | Project | Description | Stack | Link |
-|---|---|---|---|
+|:---|:---|:---|:---:|
 | 💸 **SaaS SmartSpend** | Premium expense & budget SaaS dashboard | `Next.js` `TypeScript` `MongoDB` `Prisma` | [![](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mhaseebhassan/Saas-SmartSpend) |
 | 🧠 **AI Content Generator** | GPT-4 blog & marketing copy with streaming | `Next.js` `OpenAI` `TypeScript` | — |
 | 🖼️ **Smart Image Enhancer** | Restore, upscale & BG-remove via deep learning | `React` `Python` `DL APIs` | — |
 | 🛍️ **Flutter E-Commerce** | Cross-platform — auth, catalog, payments, orders | `Flutter` `Dart` `Firebase` | [![](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/mhaseebhassan/eC-APP) |
-| 🗂️ **Task Manager** | Real-time boards with drag-and-drop | `React` `Node.js` `MongoDB` | — |
+| 🗂️ **Task Manager** | Real-time boards with drag-and-drop collaboration | `React` `Node.js` `MongoDB` | — |
 | 🌐 **Portfolio** | Cinematic Next.js site — glassmorphism + Framer | `Next.js` `TypeScript` `Tailwind` | [![](https://img.shields.io/badge/Live-9333ea?style=flat-square&logo=vercel)](https://haseebhassan.vercel.app) |
 
 </div>
@@ -200,7 +191,7 @@ HN Algolia
 
 <br/><br/>
 
-**AI / NLP**
+**— AI / NLP —**
 
 ![BERTopic](https://img.shields.io/badge/BERTopic-9333ea?style=for-the-badge&logo=python&logoColor=white)
 ![VADER](https://img.shields.io/badge/VADER-7c3aed?style=for-the-badge&logo=python&logoColor=white)
@@ -221,11 +212,11 @@ HN Algolia
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14&hide_border=true&hide=issues&custom_title=Contribution+Overview&rank_icon=github&show=reviews,discussions_started" width="54%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mhaseebhassan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=14&hide_border=true&hide=issues,stars&custom_title=Contribution+Overview&rank_icon=github" width="52%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhaseebhassan&theme=tokyo-night&hide_border=true&radius=14&area=true&custom_title=📅+Contribution+Timeline" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mhaseebhassan&theme=tokyo-night&hide_border=true&radius=14&area=true&custom_title=Contribution+Timeline" width="95%"/>
 
 </div>
 
@@ -239,19 +230,25 @@ HN Algolia
 
 <div align="center">
 
-<table>
+<table width="90%">
 <tr>
-<td width="40%" align="center" valign="top">
+<td width="38%" align="center" valign="top">
+
+<br/>
 
 🎓 **B.S. Computer Science**
+
 **COMSATS University Islamabad**
+
 `2023 → 2027` &nbsp;|&nbsp; `SP23-BCS-054`
 
+<br/>
+
 </td>
-<td width="60%" valign="top">
+<td width="62%" valign="top">
 
 | 📜 Certification | Platform | Year |
-|---|---|---|
+|:---|:---:|:---:|
 | Flutter & Dart — Complete App Dev | Packt / Coursera | 2025 |
 | Flutter + Dart: iOS, Android & Mobile | IBM / Coursera | 2025 |
 | Advanced Flutter UI & State Mgmt | Packt / Coursera | 2025 |
@@ -275,15 +272,16 @@ HN Algolia
 
 <div align="center">
 
-> ## *"Don't just write code. Build leverage."*
+> ### *"Don't just write code. Build leverage."*
 
 <br/>
 
-<table>
+<table width="90%">
 <tr>
 <td align="center" width="25%">
 
 **🎯 Ship Smart**
+
 Done > perfect.
 Refactor with context.
 
@@ -291,6 +289,7 @@ Refactor with context.
 <td align="center" width="25%">
 
 **🤖 AI = Amplifier**
+
 I direct it.
 I don't follow it.
 
@@ -298,6 +297,7 @@ I don't follow it.
 <td align="center" width="25%">
 
 **📖 Docs First**
+
 Undocumented code
 is future tech debt.
 
@@ -305,6 +305,7 @@ is future tech debt.
 <td align="center" width="25%">
 
 **🔩 Systems Win**
+
 Build the engine,
 not just the dashboard.
 
@@ -324,10 +325,6 @@ not just the dashboard.
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-
-<br/><br/>
-
 <a href="https://haseebhassan.vercel.app">
   <img src="https://img.shields.io/badge/🌍_Portfolio-Visit_My_Site-9333ea?style=for-the-badge&labelColor=0d0221"/>
 </a>&nbsp;&nbsp;
@@ -340,6 +337,7 @@ not just the dashboard.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:1a0533,60:3b0764,100:0d0221&height=140&section=footer&text=Open%20to%20Opportunities%20⚡&fontSize=22&fontColor=f3e8ff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<!-- FOOTER wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,25:1a0533,50:3b0764,75:1a0533,100:0d0221&height=160&section=footer&text=Open%20to%20Opportunities%20%E2%9A%A1&fontSize=24&fontColor=f3e8ff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 </div>
