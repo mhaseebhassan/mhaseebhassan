@@ -84,15 +84,4 @@ Architected a full multi-tenant recruitment platform with role-based admin panel
   </a>
 </div>
 
-<br/><br/>
 
-<div align="center">
-  <h2>🐍 GITHUB METRICS</h2>
-  <br/>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mhaseebhassan/mhaseebhassan/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhaseebhassan/mhaseebhassan/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mhaseebhassan/mhaseebhassan/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
